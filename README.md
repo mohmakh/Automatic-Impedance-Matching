@@ -1,7 +1,5 @@
 # Automatic-Impedance-Matching
 
-# Automatic Impedance Matching Using Machine Learning Algorithms
-
 This project focuses on designing an adaptive impedance tuning scheme using **Genetic Algorithms (GA)** and **Artificial Neural Networks (ANNs)**. It enables real-time and efficient impedance matching, improving power transfer and minimizing signal loss in wireless communication systems.
 
 ## Features
